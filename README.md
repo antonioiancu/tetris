@@ -1,4 +1,3 @@
-readme.txt
 ___________________________________________
 Projet Tetris
 Fait par Iancu Mihai-Antonio et Hammad Ayoub
@@ -48,4 +47,8 @@ d : Déplacer une pièce vers la droite
 
 s : Accélérer la chute de la pièce
 
+
 z : Faire tourner la pièce de 90°
+
+
+<img width="161" alt="Screenshot 2022-06-05 at 19 33 36" src="https://user-images.githubusercontent.com/106923219/172063007-13c51c8a-ce30-4d11-bbd2-89aeac517919.png">
